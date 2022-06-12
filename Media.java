@@ -4,7 +4,7 @@ números 4, 5 e 6. A soma das duas médias. A média das médias.
 */
 
 public class Media {
-    public static void main (String[]  Args) {
+    public static void main (String[]  args) {
         
         int[] primArray = {8, 9, 7};
         int[] segArray = {4, 5, 6};
